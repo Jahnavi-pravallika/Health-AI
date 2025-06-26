@@ -1,0 +1,19 @@
+# 🔐 Environment secrets
+.env
+
+# 🐍 Python cache
+__pycache__/
+*.pyc
+
+# 💻 Virtual environment
+.venv/
+
+# 💾 OS files
+.DS_Store
+Thumbs.db
+
+# 📦 Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# 🚫 VS Code settings (optional)
+.vscode/
